@@ -68,6 +68,12 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/zte/nx503a/proprietary/etc/snd_soc_msm/snd_soc_apq_Taiko_DB:system/etc/snd_soc_msm/snd_soc_apq_Taiko_DB \
+    vendor/zte/nx503a/proprietary/etc/snd_soc_msm/snd_soc_msm_Taiko:system/etc/snd_soc_msm/snd_soc_msm_Taiko \
+    vendor/zte/nx503a/proprietary/etc/snd_soc_msm/snd_soc_msm_Taiko_CDP:system/etc/snd_soc_msm/snd_soc_msm_Taiko_CDP \
+    vendor/zte/nx503a/proprietary/etc/snd_soc_msm/snd_soc_msm_Taiko_Fluid:system/etc/snd_soc_msm/snd_soc_msm_Taiko_Fluid \
+    vendor/zte/nx503a/proprietary/etc/snd_soc_msm/snd_soc_msm_Taiko_liquid:system/etc/snd_soc_msm/snd_soc_msm_Taiko_liquid \
+    vendor/zte/nx503a/proprietary/etc/snd_soc_msm/snd_soc_msm_Taiko_liquid_auxpcm:system/etc/snd_soc_msm/snd_soc_msm_Taiko_liquid_auxpcm \
     vendor/zte/nx503a/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.msm8930.so:system/lib/hw/sensors.msm8930.so \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.oem.so:system/lib/hw/sensors.oem.so \
