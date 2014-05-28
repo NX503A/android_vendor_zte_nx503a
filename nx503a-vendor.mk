@@ -34,3 +34,6 @@ $(call inherit-product, vendor/zte/nx503a/nx503a-vendor-gapps.mk)
 $(call inherit-product, vendor/zte/nx503a/nx503a-vendor-gapps-optional.mk)
 
 $(call inherit-product, vendor/zte/nx503a/nx503a-vendor-blobs.mk)
+
+#Optimized dalvik & bionic for Qualcomm SoC
+$(call inherit-product, vendor/zte/nx503a/qcom-dalvik.mk)
