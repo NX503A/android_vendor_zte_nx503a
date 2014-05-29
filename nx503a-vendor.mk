@@ -29,11 +29,14 @@ PRODUCT_COPY_FILES := \
 # Pick up overlay for features that depend on non-open-source files
 DEVICE_PACKAGE_OVERLAYS := vendor/zte/nx503a/overlay
 
-#Google Applications
+# Google Applications
 $(call inherit-product, vendor/zte/nx503a/nx503a-vendor-gapps.mk)
 $(call inherit-product, vendor/zte/nx503a/nx503a-vendor-gapps-optional.mk)
 
-#Optimized dalvik & bionic for Qualcomm SoC
+# Qualcomm Adreno 330 drivers update
+$(call inherit-product, vendor/zte/nx503a/qcom-adreno-330.mk)
+
+# Optimized dalvik & bionic for Qualcomm SoC
 $(call inherit-product, vendor/zte/nx503a/qcom-dalvik.mk)
 
 $(call inherit-product, vendor/zte/nx503a/nx503a-vendor-blobs.mk)
