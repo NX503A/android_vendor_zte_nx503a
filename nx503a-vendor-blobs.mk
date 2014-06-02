@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
 
 PRODUCT_COPY_FILES += \
+    vendor/zte/nx503a/proprietary/priv-app/NubiaSettings.apk:system/priv-app/NubiaSettings.apk \
     vendor/zte/nx503a/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/zte/nx503a/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/zte/nx503a/proprietary/bin/CameraEffectService:system/bin/CameraEffectService \
