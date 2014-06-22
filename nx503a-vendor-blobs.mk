@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/zte/nx503a/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.msm8930.so:system/lib/hw/sensors.msm8930.so \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.oem.so:system/lib/hw/sensors.oem.so \
     vendor/zte/nx503a/proprietary/lib/libCameraEffect.so:system/lib/libCameraEffect.so \
