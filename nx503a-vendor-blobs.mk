@@ -66,7 +66,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/zte/nx503a/proprietary/lib/hw/sensors.msm8930.so:system/lib/hw/sensors.msm8930.so \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.oem.so:system/lib/hw/sensors.oem.so \
     vendor/zte/nx503a/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/zte/nx503a/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
