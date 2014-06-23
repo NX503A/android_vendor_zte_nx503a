@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/priv-app/NubiaSettings.apk:system/priv-app/NubiaSettings.apk \
     vendor/zte/nx503a/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/zte/nx503a/proprietary/bin/btnvtool:system/bin/btnvtool \
-    vendor/zte/nx503a/proprietary/bin/CameraEffectService:system/bin/CameraEffectService \
     vendor/zte/nx503a/proprietary/bin/cnd:system/bin/cnd \
     vendor/zte/nx503a/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/zte/nx503a/proprietary/bin/efsks:system/bin/efsks \
@@ -69,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.msm8930.so:system/lib/hw/sensors.msm8930.so \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.oem.so:system/lib/hw/sensors.oem.so \
-    vendor/zte/nx503a/proprietary/lib/libCameraEffect.so:system/lib/libCameraEffect.so \
     vendor/zte/nx503a/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/zte/nx503a/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/zte/nx503a/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
