@@ -42,7 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/bin/qcks:system/bin/qcks \
     vendor/zte/nx503a/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/zte/nx503a/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/zte/nx503a/proprietary/bin/qosmgrd:system/bin/qosmgrd \
+    vendor/zte/nx503a/proprietary/bin/qosmgr:system/bin/qosmgr \
     vendor/zte/nx503a/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/zte/nx503a/proprietary/bin/radish:system/bin/radish \
     vendor/zte/nx503a/proprietary/bin/rfs_access:system/bin/rfs_access \
