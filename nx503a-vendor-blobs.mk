@@ -82,7 +82,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/zte/nx503a/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/zte/nx503a/proprietary/vendor/firmware/bcm4339.hcd:system/vendor/firmware/bcm4339.hcd \
-    vendor/zte/nx503a/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/zte/nx503a/proprietary/vendor/lib/hw/sensors.msm8974.so:system/vendor/lib/hw/sensors.msm8974.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
