@@ -251,4 +251,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/vendor/lib/libwfduibcsrcinterface.so:system/vendor/lib/libwfduibcsrcinterface.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/zte/nx503a/proprietary/vendor/lib/pp_proc_plugin.so:system/vendor/lib/pp_proc_plugin.so
+    vendor/zte/nx503a/proprietary/vendor/lib/pp_proc_plugin.so:system/vendor/lib/pp_proc_plugin.so \
+    vendor/zte/nx503a/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
+    vendor/zte/nx503a/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd
