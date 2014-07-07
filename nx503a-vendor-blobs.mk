@@ -1,4 +1,9 @@
 # ZTE Z5S 4.4 H204 proprietary files
+
+# Prebuilt libraries that are needed to build open-source libraries
+ PRODUCT_COPY_FILES += \
+    vendor/zte/nx503a/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
+
 PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/zte/nx503a/proprietary/bin/btnvtool:system/bin/btnvtool \
@@ -58,6 +63,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/etc/cne/NsrmConfiguration.xml:system/etc/cne/NsrmConfiguration.xml \
     vendor/zte/nx503a/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
     vendor/zte/nx503a/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
+    vendor/zte/nx503a/proprietary/etc/firmware/bcm4339/fw_bcmdhd_apsta.bin:system/etc/firmware/bcm4339/fw_bcmdhd.bin \
     vendor/zte/nx503a/proprietary/etc/firmware/bcm4339/fw_bcmdhd_apsta.bin:system/etc/firmware/bcm4339/fw_bcmdhd_apsta.bin \
     vendor/zte/nx503a/proprietary/etc/firmware/bcm4339/fw_bcmdhd_p2p.bin:system/etc/firmware/bcm4339/fw_bcmdhd_p2p.bin \
     vendor/zte/nx503a/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
