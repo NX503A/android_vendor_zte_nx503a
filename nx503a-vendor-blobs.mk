@@ -60,7 +60,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
     vendor/zte/nx503a/proprietary/etc/firmware/bcm4339/fw_bcmdhd_apsta.bin:system/etc/firmware/bcm4339/fw_bcmdhd_apsta.bin \
     vendor/zte/nx503a/proprietary/etc/firmware/bcm4339/fw_bcmdhd_p2p.bin:system/etc/firmware/bcm4339/fw_bcmdhd_p2p.bin \
-    vendor/zte/nx503a/proprietary/etc/firmware/bcm4339/nvram.txt:system/etc/firmware/bcm4339/nvram.txt \
     vendor/zte/nx503a/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
     vendor/zte/nx503a/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/zte/nx503a/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
@@ -100,7 +99,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
     vendor/zte/nx503a/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/zte/nx503a/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/zte/nx503a/proprietary/vendor/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     vendor/zte/nx503a/proprietary/vendor/firmware/bcm4339.hcd:system/vendor/firmware/bcm4339.hcd \
     vendor/zte/nx503a/proprietary/vendor/lib/drm/libdrmprplugin.so:system/vendor/lib/drm/libdrmprplugin.so \
     vendor/zte/nx503a/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
