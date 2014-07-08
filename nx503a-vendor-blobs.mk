@@ -94,9 +94,16 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.oem.so:system/lib/hw/sensors.oem.so \
     vendor/zte/nx503a/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
+    vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_gbao_lc898122_liveshot.so:system/lib/libchromatix_imx135_gbao_lc898122_liveshot.so \
+    vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_069_liveshot.so:system/lib/libchromatix_imx135_069_liveshot.so \
+    vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_z5s_liveshot.so:system/lib/libchromatix_imx135_z5s_liveshot.so \
+    vendor/zte/nx503a/proprietary/lib/libchromatix_imx214_liveshot.so:system/lib/libchromatix_imx214_liveshot.so \
+    vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_front_liveshot.so:system/lib/libchromatix_imx135_front_liveshot.so \
+    vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
+    vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_z5s_069_liveshot.so:system/lib/libchromatix_imx135_z5s_069_liveshot.so \
+    vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_gbao_liveshot.so:system/lib/libchromatix_imx135_gbao_liveshot.so \
     vendor/zte/nx503a/proprietary/lib/libds_jni.so:system/lib/libds_jni.so \
     vendor/zte/nx503a/proprietary/lib/libds_native.so:system/lib/libds_native.so \
-    vendor/zte/nx503a/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/zte/nx503a/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/zte/nx503a/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/zte/nx503a/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
