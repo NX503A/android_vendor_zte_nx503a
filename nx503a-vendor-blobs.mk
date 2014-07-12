@@ -98,6 +98,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_069_liveshot.so:system/lib/libchromatix_imx135_069_liveshot.so \
     vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_z5s_liveshot.so:system/lib/libchromatix_imx135_z5s_liveshot.so \
     vendor/zte/nx503a/proprietary/lib/libchromatix_imx214_liveshot.so:system/lib/libchromatix_imx214_liveshot.so \
+    vendor/zte/nx503a/proprietary/lib/libchromatix_imx220_liveshot.so:system/lib/libchromatix_imx220_liveshot.so \
     vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_front_liveshot.so:system/lib/libchromatix_imx135_front_liveshot.so \
     vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
     vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_z5s_069_liveshot.so:system/lib/libchromatix_imx135_z5s_069_liveshot.so \
