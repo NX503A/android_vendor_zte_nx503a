@@ -115,6 +115,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/zte/nx503a/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/zte/nx503a/proprietary/vendor/firmware/bcm4339.hcd:system/vendor/firmware/bcm4339.hcd \
+    vendor/zte/nx503a/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/zte/nx503a/proprietary/vendor/lib/drm/libdrmprplugin.so:system/vendor/lib/drm/libdrmprplugin.so \
     vendor/zte/nx503a/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/zte/nx503a/proprietary/vendor/lib/hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
@@ -174,6 +175,10 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_ad5816_camera.so:system/vendor/lib/libactuator_zte_ad5816_camera.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_ad5816_lc898122_camcorder.so:system/vendor/lib/libactuator_zte_ad5816_lc898122_camcorder.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_ad5816_lc898122_camera.so:system/vendor/lib/libactuator_zte_ad5816_lc898122_camera.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_mitsumi_lc898122_camcorder.so:system/vendor/lib/libactuator_zte_mitsumi_lc898122_camcorder.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_mitsumi_lc898122_camera.so:system/vendor/lib/libactuator_zte_mitsumi_lc898122_camera.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_mitsumi_lc898122_for_gbao_camcorder.so:system/vendor/lib/libactuator_zte_mitsumi_lc898122_for_gbao_camcorder.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_mitsumi_lc898122_for_gbao_camera.so:system/vendor/lib/libactuator_zte_mitsumi_lc898122_for_gbao_camera.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_rohm_bu64291gwz_camcorder.so:system/vendor/lib/libactuator_zte_rohm_bu64291gwz_camcorder.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_rohm_bu64291gwz_camera.so:system/vendor/lib/libactuator_zte_rohm_bu64291gwz_camera.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libactuator_zte_rohm_bu64291gwz_z7_front_camcorder.so:system/vendor/lib/libactuator_zte_rohm_bu64291gwz_z7_front_camcorder.so \
@@ -277,6 +282,13 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx214_nightmode_1.so:system/vendor/lib/libchromatix_imx214_nightmode_1.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx214_preview.so:system/vendor/lib/libchromatix_imx214_preview.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx214_snapshot.so:system/vendor/lib/libchromatix_imx214_snapshot.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx220_common.so:system/vendor/lib/libchromatix_imx220_common.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx220_default_video.so:system/vendor/lib/libchromatix_imx220_default_video.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx220_hfr_120.so:system/vendor/lib/libchromatix_imx220_hfr_120.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx220_nightmode.so:system/vendor/lib/libchromatix_imx220_nightmode.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx220_nightmode_1.so:system/vendor/lib/libchromatix_imx220_nightmode_1.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx220_preview.so:system/vendor/lib/libchromatix_imx220_preview.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_imx220_snapshot.so:system/vendor/lib/libchromatix_imx220_snapshot.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_ov2720_common.so:system/vendor/lib/libchromatix_ov2720_common.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_ov2720_default_video.so:system/vendor/lib/libchromatix_ov2720_default_video.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libchromatix_ov2720_hfr.so:system/vendor/lib/libchromatix_ov2720_hfr.so \
@@ -406,6 +418,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so:system/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_SKUAB_ST_s5k4e1.so:system/vendor/lib/libmmcamera_SKUAB_ST_s5k4e1.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_gbao_imx214_lc898122_eeprom.so:system/vendor/lib/libmmcamera_gbao_imx214_lc898122_eeprom.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_hi256.so:system/vendor/lib/libmmcamera_hi256.so \
@@ -421,6 +434,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_imx135_z5s_069.so:system/vendor/lib/libmmcamera_imx135_z5s_069.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_imx214.so:system/vendor/lib/libmmcamera_imx214.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_imx214_lc898122.so:system/vendor/lib/libmmcamera_imx214_lc898122.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_imx220.so:system/vendor/lib/libmmcamera_imx220.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_liteon_imx214_eeprom.so:system/vendor/lib/libmmcamera_liteon_imx214_eeprom.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_mt9m114.so:system/vendor/lib/libmmcamera_mt9m114.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libmmcamera_ofilm_oty5f03_eeprom.so:system/vendor/lib/libmmcamera_ofilm_oty5f03_eeprom.so \
