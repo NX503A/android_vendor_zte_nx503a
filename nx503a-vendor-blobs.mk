@@ -105,6 +105,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/lib/libchromatix_imx135_gbao_liveshot.so:system/lib/libchromatix_imx135_gbao_liveshot.so \
     vendor/zte/nx503a/proprietary/lib/libds_jni.so:system/lib/libds_jni.so \
     vendor/zte/nx503a/proprietary/lib/libds_native.so:system/lib/libds_native.so \
+    vendor/zte/nx503a/proprietary/lib/liblocSDK3.so:system/lib/liblocSDK3.so \
+    vendor/zte/nx503a/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/zte/nx503a/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/zte/nx503a/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/zte/nx503a/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
