@@ -72,7 +72,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/etc/firmware/cyttsp4_fw.bin:system/etc/firmware/cyttsp4_fw.bin \
     vendor/zte/nx503a/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/zte/nx503a/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/zte/nx503a/proprietary/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
     vendor/zte/nx503a/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
