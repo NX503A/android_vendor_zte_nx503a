@@ -36,6 +36,6 @@ DEVICE_PACKAGE_OVERLAYS := vendor/zte/nx503a/overlay
 $(call inherit-product, vendor/zte/nx503a/qcom-adreno-330.mk)
 
 # OEM applications
-$(call inherit-product, vendor/zte/nx503a/oem.mk)
+#$(call inherit-product, vendor/zte/nx503a/oem.mk)
 
 $(call inherit-product, vendor/zte/nx503a/nx503a-vendor-blobs.mk)
