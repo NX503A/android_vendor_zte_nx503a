@@ -411,10 +411,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/zte/nx503a/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
-    vendor/zte/nx503a/proprietary/vendor/lib/liblisten.so:system/vendor/lib/liblisten.so \
-    vendor/zte/nx503a/proprietary/vendor/lib/liblistenhardware.so:system/vendor/lib/liblistenhardware.so \
-    vendor/zte/nx503a/proprietary/vendor/lib/liblistenjni.so:system/vendor/lib/liblistenjni.so \
-    vendor/zte/nx503a/proprietary/vendor/lib/liblistensoundmodel.so:system/vendor/lib/liblistensoundmodel.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libloc_ext.so:system/vendor/lib/libloc_ext.so \
     vendor/zte/nx503a/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     vendor/zte/nx503a/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
