@@ -39,27 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/zte/nx503a/proprietary/bin/tmg3993:system/bin/tmg3993 \
     vendor/zte/nx503a/proprietary/bin/wdsdaemon:system/bin/wdsdaemon \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Fluid/Fluid_Bluetooth_cal.acdb:system/etc/acdbdata/Fluid/Fluid_Bluetooth_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Fluid/Fluid_General_cal.acdb:system/etc/acdbdata/Fluid/Fluid_General_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Fluid/Fluid_Global_cal.acdb:system/etc/acdbdata/Fluid/Fluid_Global_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Fluid/Fluid_Handset_cal.acdb:system/etc/acdbdata/Fluid/Fluid_Handset_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Fluid/Fluid_Hdmi_cal.acdb:system/etc/acdbdata/Fluid/Fluid_Hdmi_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Fluid/Fluid_Headset_cal.acdb:system/etc/acdbdata/Fluid/Fluid_Headset_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Fluid/Fluid_Speaker_cal.acdb:system/etc/acdbdata/Fluid/Fluid_Speaker_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Liquid/Liquid_Bluetooth_cal.acdb:system/etc/acdbdata/Liquid/Liquid_Bluetooth_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Liquid/Liquid_General_cal.acdb:system/etc/acdbdata/Liquid/Liquid_General_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Liquid/Liquid_Global_cal.acdb:system/etc/acdbdata/Liquid/Liquid_Global_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Liquid/Liquid_Handset_cal.acdb:system/etc/acdbdata/Liquid/Liquid_Handset_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Liquid/Liquid_Hdmi_cal.acdb:system/etc/acdbdata/Liquid/Liquid_Hdmi_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Liquid/Liquid_Headset_cal.acdb:system/etc/acdbdata/Liquid/Liquid_Headset_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/Liquid/Liquid_Speaker_cal.acdb:system/etc/acdbdata/Liquid/Liquid_Speaker_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/MTP/MTP_General_cal.acdb:system/etc/acdbdata/MTP/MTP_General_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/MTP/MTP_Global_cal.acdb:system/etc/acdbdata/MTP/MTP_Global_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/MTP/MTP_Handset_cal.acdb:system/etc/acdbdata/MTP/MTP_Handset_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
-    vendor/zte/nx503a/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/zte/nx503a/proprietary/etc/capability.xml:system/etc/capability.xml \
     vendor/zte/nx503a/proprietary/etc/cne/NsrmConfiguration.xml:system/etc/cne/NsrmConfiguration.xml \
     vendor/zte/nx503a/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
