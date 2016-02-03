@@ -73,8 +73,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/etc/wfdconfig800_480.xml:system/etc/wfdconfig800_480.xml \
     vendor/zte/nx503a/proprietary/etc/wfdconfig960_540.xml:system/etc/wfdconfig960_540.xml \
     vendor/zte/nx503a/proprietary/etc/wfdconfigsink.xml:system/etc/wfdconfigsink.xml \
-    vendor/zte/nx503a/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
-    vendor/zte/nx503a/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
+    vendor/zte/nx503a/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/zte/nx503a/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.oem.so:system/lib/hw/sensors.oem.so \
     vendor/zte/nx503a/proprietary/lib/libBlurEffect.so:system/lib/libBlurEffect.so \
