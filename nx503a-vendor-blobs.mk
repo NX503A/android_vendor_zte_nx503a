@@ -50,7 +50,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/etc/cne/NsrmConfiguration.xml:system/etc/cne/NsrmConfiguration.xml \
     vendor/zte/nx503a/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
     vendor/zte/nx503a/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
-    vendor/zte/nx503a/proprietary/etc/firmware/bcm4339/fw_bcmdhd_apsta.bin:system/etc/firmware/bcm4339/fw_bcmdhd.bin \
+    vendor/zte/nx503a/proprietary/etc/firmware/bcm4339/fw_bcmdhd_apsta.bin:system/etc/firmware/bcm4339/fw_bcmdhd_apsta.bin \
+    vendor/zte/nx503a/proprietary/etc/firmware/bcm4339/fw_bcmdhd_p2p.bin:system/etc/firmware/bcm4339/fw_bcmdhd_p2p.bin \
     vendor/zte/nx503a/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
     vendor/zte/nx503a/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/zte/nx503a/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
