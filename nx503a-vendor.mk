@@ -36,3 +36,7 @@ $(call inherit-product, vendor/zte/nx503a/qcom-adreno-330.mk)
 $(call inherit-product, vendor/zte/nx503a/oem.mk)
 
 $(call inherit-product, vendor/zte/nx503a/nx503a-vendor-blobs.mk)
+
+# Prebuilt APKs
+PRODUCT_PACKAGES += \
+    TimeService
