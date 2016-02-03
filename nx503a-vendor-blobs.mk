@@ -34,6 +34,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/zte/nx503a/proprietary/bin/rild:system/bin/rild \
     vendor/zte/nx503a/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/zte/nx503a/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
+    vendor/zte/nx503a/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/zte/nx503a/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/zte/nx503a/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/zte/nx503a/proprietary/bin/time_daemon:system/bin/time_daemon \
@@ -107,8 +109,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
     vendor/zte/nx503a/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/zte/nx503a/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
-    vendor/zte/nx503a/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/zte/nx503a/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/zte/nx503a/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/zte/nx503a/proprietary/vendor/firmware/bcm4339.hcd:system/vendor/firmware/bcm4339.hcd \
     vendor/zte/nx503a/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/zte/nx503a/proprietary/vendor/lib/drm/libdrmprplugin.so:system/vendor/lib/drm/libdrmprplugin.so \
