@@ -39,6 +39,7 @@ $(call inherit-product, vendor/zte/nx503a/nx503a-vendor-blobs.mk)
 
 # Prebuilt APKs
 PRODUCT_PACKAGES += \
+    PPPreference \
     qcrilmsgtunnel \
     QuickBoot \
     shutdownlistener \

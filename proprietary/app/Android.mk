@@ -19,6 +19,15 @@ LOCAL_PATH := $(call my-dir)
 ifeq ($(TARGET_DEVICE),nx503a)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE := PPPreference
+LOCAL_MODULE_TAGS := optional
+LOCAL_SRC_FILES := PPPreference/PPPreference.apk
+LOCAL_CERTIFICATE := platform
+LOCAL_MODULE_CLASS := APPS
+LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE := qcrilmsgtunnel
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := qcrilmsgtunnel/qcrilmsgtunnel.apk

@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
     vendor/zte/nx503a/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/zte/nx503a/proprietary/bin/ks:system/bin/ks \
+    vendor/zte/nx503a/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/zte/nx503a/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/zte/nx503a/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/zte/nx503a/proprietary/bin/mpdecision:system/bin/mpdecision \
