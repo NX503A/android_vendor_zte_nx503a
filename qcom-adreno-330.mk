@@ -28,10 +28,12 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/adreno-330/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/zte/nx503a/adreno-330/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/zte/nx503a/adreno-330/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
+    vendor/zte/nx503a/adreno-330/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/zte/nx503a/adreno-330/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/zte/nx503a/adreno-330/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/zte/nx503a/adreno-330/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/zte/nx503a/adreno-330/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/zte/nx503a/adreno-330/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
+    vendor/zte/nx503a/adreno-330/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
     vendor/zte/nx503a/adreno-330/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/zte/nx503a/adreno-330/vendor/lib/libscale.so:system/vendor/lib/libscale.so
