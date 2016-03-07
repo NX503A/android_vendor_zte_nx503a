@@ -14,8 +14,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/bin/exfat-dump:system/bin/exfat-dump \
     vendor/zte/nx503a/proprietary/bin/exfat-fsck:system/bin/exfat-fsck \
     vendor/zte/nx503a/proprietary/bin/exfat:system/bin/exfat \
-    vendor/zte/nx503a/proprietary/bin/fmconfig:system/bin/fmconfig \
-    vendor/zte/nx503a/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/zte/nx503a/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/zte/nx503a/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/zte/nx503a/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
