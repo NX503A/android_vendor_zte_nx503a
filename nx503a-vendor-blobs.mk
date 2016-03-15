@@ -509,7 +509,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/zte/nx503a/proprietary/vendor/lib/librmp.so:system/vendor/lib/librmp.so \
     vendor/zte/nx503a/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
-    vendor/zte/nx503a/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libscve.so:system/vendor/lib/libscve.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libscve_stub.so:system/vendor/lib/libscve_stub.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
